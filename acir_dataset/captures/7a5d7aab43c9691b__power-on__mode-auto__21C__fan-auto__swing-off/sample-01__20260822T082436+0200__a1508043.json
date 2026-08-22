@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "status": "decode_error",
+  "captured_at": "2026-08-22T08:24:36+02:00",
+  "state_id": "7a5d7aab43c9691b",
+  "state": {
+    "power": "on",
+    "mode": "auto",
+    "temperature_c": 21,
+    "fan": "auto",
+    "swing": "off"
+  },
+  "sample_index": 1,
+  "experiments": [
+    "temperature"
+  ],
+  "source_sha256": "a1508043045cb6d218830e6c15dafd05e02d0a078a0c1bf9d9d3621a35ce04bf",
+  "raw_csv": "sample-01__20260822T082436+0200__a1508043.csv",
+  "decode": null,
+  "error": "DecodeError: no leader burst found"
+}

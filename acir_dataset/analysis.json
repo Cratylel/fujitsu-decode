@@ -1,0 +1,1331 @@
+{
+  "generated_at": "2026-08-22T08:39:27+02:00",
+  "successful_capture_count": 25,
+  "plan": [
+    {
+      "state_id": "1eac82ddb4c80aed",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 3,
+      "captured_count": 3,
+      "experiments": [
+        "baseline_repeat",
+        "temperature",
+        "mode",
+        "fan",
+        "swing"
+      ]
+    },
+    {
+      "state_id": "77baed955f34fdcb",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 18,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "7a08108b964efae8",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 19,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "d384fb368c6099e2",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 20,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "7a5d7aab43c9691b",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 21,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "947709e5db2e7cf6",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 22,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "3796c004d19397b1",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 23,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "b65c62c71d276143",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 25,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "cf832239c7976be7",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 26,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "87e14633e29846b8",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 27,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "693738277f280d5c",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 28,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "89c10fc1acbd9388",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 29,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "889a327ad4d53266",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 30,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "temperature"
+      ]
+    },
+    {
+      "state_id": "b89888a93aaa6068",
+      "state": {
+        "power": "on",
+        "mode": "cool",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "mode"
+      ]
+    },
+    {
+      "state_id": "b10e7cda664d52f6",
+      "state": {
+        "power": "on",
+        "mode": "dry",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "mode"
+      ]
+    },
+    {
+      "state_id": "3ae8480c7fc03e36",
+      "state": {
+        "power": "on",
+        "mode": "fan",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "mode"
+      ]
+    },
+    {
+      "state_id": "4889e2e2e5a0a298",
+      "state": {
+        "power": "on",
+        "mode": "heat",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "mode"
+      ]
+    },
+    {
+      "state_id": "3be6db59f447b474",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "quiet",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "fan"
+      ]
+    },
+    {
+      "state_id": "781f79f49073f064",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "low",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "fan"
+      ]
+    },
+    {
+      "state_id": "8087b18b535494e8",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "medium",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "fan"
+      ]
+    },
+    {
+      "state_id": "0131d9da00251d13",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "high",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "fan"
+      ]
+    },
+    {
+      "state_id": "46a6e43d745e9840",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "on"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "swing"
+      ]
+    },
+    {
+      "state_id": "34dc68be4d6d4f0f",
+      "state": {
+        "power": "off",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "required_count": 1,
+      "captured_count": 1,
+      "experiments": [
+        "power_off"
+      ]
+    }
+  ],
+  "frame_lengths": {
+    "6": {
+      "capture_count": 1,
+      "unique_packet_count": 1,
+      "constant_bytes": {
+        "0": "14",
+        "1": "63",
+        "2": "00",
+        "3": "10",
+        "4": "10",
+        "5": "02"
+      },
+      "varying_byte_indices": [],
+      "zero_sum_suffix_starts": []
+    },
+    "15": {
+      "capture_count": 24,
+      "unique_packet_count": 22,
+      "constant_bytes": {
+        "0": "14",
+        "1": "63",
+        "2": "00",
+        "3": "10",
+        "4": "10",
+        "5": "FC",
+        "6": "08",
+        "7": "30",
+        "11": "00",
+        "12": "00",
+        "13": "00"
+      },
+      "varying_byte_indices": [
+        8,
+        9,
+        10,
+        14
+      ],
+      "zero_sum_suffix_starts": [
+        7
+      ]
+    }
+  },
+  "experiments": [
+    {
+      "name": "baseline_repeat",
+      "field": null,
+      "entries": [
+        {
+          "state_id": "1eac82ddb4c80aed",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 3,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": []
+        }
+      ],
+      "varying_bit_indices_lsb": [],
+      "numeric_relations": []
+    },
+    {
+      "name": "temperature",
+      "field": "temperature_c",
+      "entries": [
+        {
+          "state_id": "77baed955f34fdcb",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 18,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 21 00 00 00 00 00 AF",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 18
+        },
+        {
+          "state_id": "7a08108b964efae8",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 19,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 31 00 00 00 00 00 9F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 19
+        },
+        {
+          "state_id": "d384fb368c6099e2",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 20,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 41 00 00 00 00 00 8F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 20
+        },
+        {
+          "state_id": "7a5d7aab43c9691b",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 21,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 51 00 00 00 00 00 7F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 21
+        },
+        {
+          "state_id": "947709e5db2e7cf6",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 22,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 61 00 00 00 00 00 6F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 22
+        },
+        {
+          "state_id": "3796c004d19397b1",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 23,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 71 00 00 00 00 00 5F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 23
+        },
+        {
+          "state_id": "1eac82ddb4c80aed",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 3,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [],
+          "field": "temperature_c",
+          "value": 24
+        },
+        {
+          "state_id": "b65c62c71d276143",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 25,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 91 00 00 00 00 00 3F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 25
+        },
+        {
+          "state_id": "cf832239c7976be7",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 26,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 A1 00 00 00 00 00 2F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 26
+        },
+        {
+          "state_id": "87e14633e29846b8",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 27,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 B1 00 00 00 00 00 1F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 27
+        },
+        {
+          "state_id": "693738277f280d5c",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 28,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 C1 00 00 00 00 00 0F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 28
+        },
+        {
+          "state_id": "89c10fc1acbd9388",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 29,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 D1 00 00 00 00 00 FF",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 29
+        },
+        {
+          "state_id": "889a327ad4d53266",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 30,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 E1 00 00 00 00 00 EF",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            8,
+            14
+          ],
+          "field": "temperature_c",
+          "value": 30
+        }
+      ],
+      "varying_bit_indices_lsb": [
+        68,
+        69,
+        70,
+        71,
+        116,
+        117,
+        118,
+        119
+      ],
+      "numeric_relations": [
+        "byte[8].high_nibble = value - 16"
+      ]
+    },
+    {
+      "name": "mode",
+      "field": "mode",
+      "entries": [
+        {
+          "state_id": "1eac82ddb4c80aed",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 3,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [],
+          "field": "mode",
+          "value": "auto"
+        },
+        {
+          "state_id": "b89888a93aaa6068",
+          "state": {
+            "power": "on",
+            "mode": "cool",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 01 00 00 00 00 4E",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            9,
+            14
+          ],
+          "field": "mode",
+          "value": "cool"
+        },
+        {
+          "state_id": "b10e7cda664d52f6",
+          "state": {
+            "power": "on",
+            "mode": "dry",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 02 00 00 00 00 4D",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            9,
+            14
+          ],
+          "field": "mode",
+          "value": "dry"
+        },
+        {
+          "state_id": "3ae8480c7fc03e36",
+          "state": {
+            "power": "on",
+            "mode": "fan",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 03 00 00 00 00 4C",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            9,
+            14
+          ],
+          "field": "mode",
+          "value": "fan"
+        },
+        {
+          "state_id": "4889e2e2e5a0a298",
+          "state": {
+            "power": "on",
+            "mode": "heat",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 04 00 00 00 00 4B",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            9,
+            14
+          ],
+          "field": "mode",
+          "value": "heat"
+        }
+      ],
+      "varying_bit_indices_lsb": [
+        72,
+        73,
+        74,
+        112,
+        113,
+        114
+      ],
+      "numeric_relations": []
+    },
+    {
+      "name": "fan",
+      "field": "fan",
+      "entries": [
+        {
+          "state_id": "1eac82ddb4c80aed",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 3,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [],
+          "field": "fan",
+          "value": "auto"
+        },
+        {
+          "state_id": "3be6db59f447b474",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "quiet",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 04 00 00 00 4B",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            10,
+            14
+          ],
+          "field": "fan",
+          "value": "quiet"
+        },
+        {
+          "state_id": "781f79f49073f064",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "low",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 03 00 00 00 4C",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            10,
+            14
+          ],
+          "field": "fan",
+          "value": "low"
+        },
+        {
+          "state_id": "8087b18b535494e8",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "medium",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 02 00 00 00 4D",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            10,
+            14
+          ],
+          "field": "fan",
+          "value": "medium"
+        },
+        {
+          "state_id": "0131d9da00251d13",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "high",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 01 00 00 00 4E",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            10,
+            14
+          ],
+          "field": "fan",
+          "value": "high"
+        }
+      ],
+      "varying_bit_indices_lsb": [
+        80,
+        81,
+        82,
+        112,
+        113,
+        114
+      ],
+      "numeric_relations": []
+    },
+    {
+      "name": "swing",
+      "field": "swing",
+      "entries": [
+        {
+          "state_id": "1eac82ddb4c80aed",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 3,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [],
+          "field": "swing",
+          "value": "off"
+        },
+        {
+          "state_id": "46a6e43d745e9840",
+          "state": {
+            "power": "on",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "on"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 10 00 00 00 3F",
+          "byte_count": 15,
+          "diff_byte_indices_vs_reference": [
+            10,
+            14
+          ],
+          "field": "swing",
+          "value": "on"
+        }
+      ],
+      "varying_bit_indices_lsb": [
+        84,
+        116,
+        117,
+        118
+      ],
+      "numeric_relations": []
+    },
+    {
+      "name": "power_off",
+      "field": null,
+      "entries": [
+        {
+          "state_id": "34dc68be4d6d4f0f",
+          "state": {
+            "power": "off",
+            "mode": "auto",
+            "temperature_c": 24,
+            "fan": "auto",
+            "swing": "off"
+          },
+          "captured_samples": 1,
+          "packet_lsb_hex": "14 63 00 10 10 02",
+          "byte_count": 6,
+          "diff_byte_indices_vs_reference": [
+            5,
+            6,
+            7,
+            8,
+            9,
+            10,
+            11,
+            12,
+            13,
+            14
+          ]
+        }
+      ],
+      "varying_bit_indices_lsb": [],
+      "numeric_relations": []
+    }
+  ],
+  "captures": [
+    {
+      "metadata": "captures/0131d9da00251d13__power-on__mode-auto__24C__fan-high__swing-off/sample-01__20260822T083024+0200__f7bc6676.json",
+      "captured_at": "2026-08-22T08:30:24+02:00",
+      "state_id": "0131d9da00251d13",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "high",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 01 00 00 00 4E",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/1eac82ddb4c80aed__power-on__mode-auto__24C__fan-auto__swing-off/sample-01__20260822T082050+0200__e7ce5ca0.json",
+      "captured_at": "2026-08-22T08:20:50+02:00",
+      "state_id": "1eac82ddb4c80aed",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/1eac82ddb4c80aed__power-on__mode-auto__24C__fan-auto__swing-off/sample-02__20260822T082132+0200__5ac98c3a.json",
+      "captured_at": "2026-08-22T08:21:32+02:00",
+      "state_id": "1eac82ddb4c80aed",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/1eac82ddb4c80aed__power-on__mode-auto__24C__fan-auto__swing-off/sample-03__20260822T082146+0200__0855c56a.json",
+      "captured_at": "2026-08-22T08:21:46+02:00",
+      "state_id": "1eac82ddb4c80aed",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/34dc68be4d6d4f0f__power-off__mode-auto__24C__fan-auto__swing-off/sample-01__20260822T083111+0200__962d18e0.json",
+      "captured_at": "2026-08-22T08:31:11+02:00",
+      "state_id": "34dc68be4d6d4f0f",
+      "state": {
+        "power": "off",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 02",
+      "byte_count": 6
+    },
+    {
+      "metadata": "captures/3796c004d19397b1__power-on__mode-auto__23C__fan-auto__swing-off/sample-01__20260822T082618+0200__8cb0ce0f.json",
+      "captured_at": "2026-08-22T08:26:18+02:00",
+      "state_id": "3796c004d19397b1",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 23,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 71 00 00 00 00 00 5F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/3ae8480c7fc03e36__power-on__mode-fan__24C__fan-auto__swing-off/sample-01__20260822T082852+0200__ddb7504d.json",
+      "captured_at": "2026-08-22T08:28:52+02:00",
+      "state_id": "3ae8480c7fc03e36",
+      "state": {
+        "power": "on",
+        "mode": "fan",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 03 00 00 00 00 4C",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/3be6db59f447b474__power-on__mode-auto__24C__fan-quiet__swing-off/sample-01__20260822T082943+0200__5161617f.json",
+      "captured_at": "2026-08-22T08:29:43+02:00",
+      "state_id": "3be6db59f447b474",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "quiet",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 04 00 00 00 4B",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/46a6e43d745e9840__power-on__mode-auto__24C__fan-auto__swing-on/sample-01__20260822T083049+0200__55c6d751.json",
+      "captured_at": "2026-08-22T08:30:49+02:00",
+      "state_id": "46a6e43d745e9840",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "on"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 10 00 00 00 3F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/4889e2e2e5a0a298__power-on__mode-heat__24C__fan-auto__swing-off/sample-01__20260822T082916+0200__8a7b4485.json",
+      "captured_at": "2026-08-22T08:29:16+02:00",
+      "state_id": "4889e2e2e5a0a298",
+      "state": {
+        "power": "on",
+        "mode": "heat",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 04 00 00 00 00 4B",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/693738277f280d5c__power-on__mode-auto__28C__fan-auto__swing-off/sample-01__20260822T082725+0200__91904a2d.json",
+      "captured_at": "2026-08-22T08:27:25+02:00",
+      "state_id": "693738277f280d5c",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 28,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 C1 00 00 00 00 00 0F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/77baed955f34fdcb__power-on__mode-auto__18C__fan-auto__swing-off/sample-01__20260822T082319+0200__e4f3f470.json",
+      "captured_at": "2026-08-22T08:23:19+02:00",
+      "state_id": "77baed955f34fdcb",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 18,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 21 00 00 00 00 00 AF",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/781f79f49073f064__power-on__mode-auto__24C__fan-low__swing-off/sample-01__20260822T082957+0200__ce44b4d9.json",
+      "captured_at": "2026-08-22T08:29:57+02:00",
+      "state_id": "781f79f49073f064",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "low",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 03 00 00 00 4C",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/7a08108b964efae8__power-on__mode-auto__19C__fan-auto__swing-off/sample-01__20260822T082337+0200__60e81b57.json",
+      "captured_at": "2026-08-22T08:23:37+02:00",
+      "state_id": "7a08108b964efae8",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 19,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 31 00 00 00 00 00 9F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/7a5d7aab43c9691b__power-on__mode-auto__21C__fan-auto__swing-off/sample-01__20260822T082525+0200__cf58b4a4.json",
+      "captured_at": "2026-08-22T08:25:25+02:00",
+      "state_id": "7a5d7aab43c9691b",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 21,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 51 00 00 00 00 00 7F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/8087b18b535494e8__power-on__mode-auto__24C__fan-medium__swing-off/sample-01__20260822T083009+0200__90d1f750.json",
+      "captured_at": "2026-08-22T08:30:09+02:00",
+      "state_id": "8087b18b535494e8",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 24,
+        "fan": "medium",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 00 02 00 00 00 4D",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/87e14633e29846b8__power-on__mode-auto__27C__fan-auto__swing-off/sample-01__20260822T083921+0200__3e7a1a39.json",
+      "captured_at": "2026-08-22T08:39:21+02:00",
+      "state_id": "87e14633e29846b8",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 27,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 B1 00 00 00 00 00 1F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/889a327ad4d53266__power-on__mode-auto__30C__fan-auto__swing-off/sample-01__20260822T082747+0200__11141a4f.json",
+      "captured_at": "2026-08-22T08:27:47+02:00",
+      "state_id": "889a327ad4d53266",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 30,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 E1 00 00 00 00 00 EF",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/89c10fc1acbd9388__power-on__mode-auto__29C__fan-auto__swing-off/sample-01__20260822T082736+0200__51bc442d.json",
+      "captured_at": "2026-08-22T08:27:36+02:00",
+      "state_id": "89c10fc1acbd9388",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 29,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 D1 00 00 00 00 00 FF",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/947709e5db2e7cf6__power-on__mode-auto__22C__fan-auto__swing-off/sample-01__20260822T083906+0200__f7938f08.json",
+      "captured_at": "2026-08-22T08:39:06+02:00",
+      "state_id": "947709e5db2e7cf6",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 22,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 61 00 00 00 00 00 6F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/b10e7cda664d52f6__power-on__mode-dry__24C__fan-auto__swing-off/sample-01__20260822T082821+0200__5bed93da.json",
+      "captured_at": "2026-08-22T08:28:21+02:00",
+      "state_id": "b10e7cda664d52f6",
+      "state": {
+        "power": "on",
+        "mode": "dry",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 02 00 00 00 00 4D",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/b65c62c71d276143__power-on__mode-auto__25C__fan-auto__swing-off/sample-01__20260822T082633+0200__7c246201.json",
+      "captured_at": "2026-08-22T08:26:33+02:00",
+      "state_id": "b65c62c71d276143",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 25,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 91 00 00 00 00 00 3F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/b89888a93aaa6068__power-on__mode-cool__24C__fan-auto__swing-off/sample-01__20260822T082805+0200__d794ed45.json",
+      "captured_at": "2026-08-22T08:28:05+02:00",
+      "state_id": "b89888a93aaa6068",
+      "state": {
+        "power": "on",
+        "mode": "cool",
+        "temperature_c": 24,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 81 01 00 00 00 00 4E",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/cf832239c7976be7__power-on__mode-auto__26C__fan-auto__swing-off/sample-01__20260822T082646+0200__656f3e5c.json",
+      "captured_at": "2026-08-22T08:26:46+02:00",
+      "state_id": "cf832239c7976be7",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 26,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 A1 00 00 00 00 00 2F",
+      "byte_count": 15
+    },
+    {
+      "metadata": "captures/d384fb368c6099e2__power-on__mode-auto__20C__fan-auto__swing-off/sample-01__20260822T082423+0200__7d1c2211.json",
+      "captured_at": "2026-08-22T08:24:23+02:00",
+      "state_id": "d384fb368c6099e2",
+      "state": {
+        "power": "on",
+        "mode": "auto",
+        "temperature_c": 20,
+        "fan": "auto",
+        "swing": "off"
+      },
+      "packet_lsb_hex": "14 63 00 10 10 FC 08 30 41 00 00 00 00 00 8F",
+      "byte_count": 15
+    }
+  ]
+}
