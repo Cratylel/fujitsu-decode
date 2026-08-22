@@ -1,0 +1,53 @@
+Successful captures: 25
+
+Frame lengths:
+    6 bytes: 1 captures, 1 unique packets
+   15 bytes: 24 captures, 22 unique packets
+      varying bytes: [8, 9, 10, 14]
+      checksum clue: sum(bytes[start:]) == 0 mod 256 for start=7
+
+[baseline_repeat]
+  power-on__mode-auto__24C__fan-auto__swing-off 14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F
+
+[temperature]
+  temperature_c=18             14 63 00 10 10 FC 08 30 21 00 00 00 00 00 AF  diff bytes [8, 14]
+  temperature_c=19             14 63 00 10 10 FC 08 30 31 00 00 00 00 00 9F  diff bytes [8, 14]
+  temperature_c=20             14 63 00 10 10 FC 08 30 41 00 00 00 00 00 8F  diff bytes [8, 14]
+  temperature_c=21             14 63 00 10 10 FC 08 30 51 00 00 00 00 00 7F  diff bytes [8, 14]
+  temperature_c=22             14 63 00 10 10 FC 08 30 61 00 00 00 00 00 6F  diff bytes [8, 14]
+  temperature_c=23             14 63 00 10 10 FC 08 30 71 00 00 00 00 00 5F  diff bytes [8, 14]
+  temperature_c=24             14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F
+  temperature_c=25             14 63 00 10 10 FC 08 30 91 00 00 00 00 00 3F  diff bytes [8, 14]
+  temperature_c=26             14 63 00 10 10 FC 08 30 A1 00 00 00 00 00 2F  diff bytes [8, 14]
+  temperature_c=27             14 63 00 10 10 FC 08 30 B1 00 00 00 00 00 1F  diff bytes [8, 14]
+  temperature_c=28             14 63 00 10 10 FC 08 30 C1 00 00 00 00 00 0F  diff bytes [8, 14]
+  temperature_c=29             14 63 00 10 10 FC 08 30 D1 00 00 00 00 00 FF  diff bytes [8, 14]
+  temperature_c=30             14 63 00 10 10 FC 08 30 E1 00 00 00 00 00 EF  diff bytes [8, 14]
+  varying LSB-first bit indices: [68, 69, 70, 71, 116, 117, 118, 119]
+  inferred: byte[8].high_nibble = value - 16
+
+[mode]
+  mode=auto                    14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F
+  mode=cool                    14 63 00 10 10 FC 08 30 81 01 00 00 00 00 4E  diff bytes [9, 14]
+  mode=dry                     14 63 00 10 10 FC 08 30 81 02 00 00 00 00 4D  diff bytes [9, 14]
+  mode=fan                     14 63 00 10 10 FC 08 30 81 03 00 00 00 00 4C  diff bytes [9, 14]
+  mode=heat                    14 63 00 10 10 FC 08 30 81 04 00 00 00 00 4B  diff bytes [9, 14]
+  varying LSB-first bit indices: [72, 73, 74, 112, 113, 114]
+
+[fan]
+  fan=auto                     14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F
+  fan=quiet                    14 63 00 10 10 FC 08 30 81 00 04 00 00 00 4B  diff bytes [10, 14]
+  fan=low                      14 63 00 10 10 FC 08 30 81 00 03 00 00 00 4C  diff bytes [10, 14]
+  fan=medium                   14 63 00 10 10 FC 08 30 81 00 02 00 00 00 4D  diff bytes [10, 14]
+  fan=high                     14 63 00 10 10 FC 08 30 81 00 01 00 00 00 4E  diff bytes [10, 14]
+  varying LSB-first bit indices: [80, 81, 82, 112, 113, 114]
+
+[swing]
+  swing=off                    14 63 00 10 10 FC 08 30 81 00 00 00 00 00 4F
+  swing=on                     14 63 00 10 10 FC 08 30 81 00 10 00 00 00 3F  diff bytes [10, 14]
+  varying LSB-first bit indices: [84, 116, 117, 118]
+
+[power_off]
+  power-off__mode-auto__24C__fan-auto__swing-off 14 63 00 10 10 02  diff bytes [5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
+
+Machine-readable analysis: /home/wojtek/source/fujitsu-decode/acir_dataset/analysis.json
